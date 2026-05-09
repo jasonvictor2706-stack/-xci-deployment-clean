@@ -1,0 +1,37 @@
+Region,Soil_Type,Avg_N,Avg_P,Avg_K,Avg_pH,Mode
+Andaman And Nicobar Islands,Laterite,30,25,20,5.5,Estimated
+Andhra Pradesh,Red,40,30,35,6.2,Estimated
+Arunachal Pradesh,Mountain,35,30,25,6.0,Estimated
+Assam,Alluvial,60,40,50,7.0,Estimated
+Bihar,Alluvial,60,40,50,7.0,Estimated
+Chandigarh,Alluvial,60,40,50,7.0,Estimated
+Chhattisgarh,Red,40,30,35,6.2,Estimated
+Dadra Nagar Haveli And Daman Diu,Alluvial,60,40,50,7.0,Estimated
+Delhi,Alluvial,60,40,50,7.0,Estimated
+Goa,Laterite,30,25,20,5.5,Estimated
+Gujarat,Alluvial,60,40,50,7.0,Estimated
+Haryana,Alluvial,60,40,50,7.0,Estimated
+Himachal Pradesh,Mountain,35,30,25,6.0,Estimated
+Jammu And Kashmir,Mountain,35,30,25,6.0,Estimated
+Jharkhand,Red,40,30,35,6.2,Estimated
+Karnataka,Red,40,30,35,6.2,Estimated
+Kerala,Laterite,30,25,20,5.5,Estimated
+Ladakh,Mountain,35,30,25,6.0,Estimated
+Lakshadweep,Sandy,20,15,10,7.5,Estimated
+Madhya Pradesh,Black,75,50,85,7.3,Estimated
+Maharashtra,Black,75,50,85,7.3,Estimated
+Manipur,Mountain,35,30,25,6.0,Estimated
+Meghalaya,Laterite,30,25,20,5.5,Estimated
+Mizoram,Mountain,35,30,25,6.0,Estimated
+Nagaland,Mountain,35,30,25,6.0,Estimated
+Odisha,Red,40,30,35,6.2,Estimated
+Puducherry,Alluvial,60,40,50,7.0,Estimated
+Punjab,Alluvial,60,40,50,7.0,Estimated
+Rajasthan,Desert,25,20,15,8.0,Estimated
+Sikkim,Mountain,35,30,25,6.0,Estimated
+Tamil Nadu,Red,40,30,35,6.2,Estimated
+Telangana,Red,40,30,35,6.2,Estimated
+Tripura,Laterite,30,25,20,5.5,Estimated
+Uttar Pradesh,Alluvial,60,40,50,7.0,Estimated
+Uttarakhand,Mountain,35,30,25,6.0,Estimated
+West Bengal,Alluvial,60,40,50,7.0,Estimated
